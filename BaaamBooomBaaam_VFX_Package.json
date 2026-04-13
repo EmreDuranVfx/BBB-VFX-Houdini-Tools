@@ -1,0 +1,38 @@
+{
+  "load_package_once": true,
+
+  "env": [
+    {
+      "BAAAMBOOOMBAAAM": "C:/00_BBB/02_GitProjects/Library/BBB_VFX_Houdini_Tools"
+    },
+
+    {
+      "HOUDINI_PATH": "$BAAAMBOOOMBAAAM;&"
+    },
+
+    {
+      "HOUDINI_OTLSCAN_PATH": "C:/00_BBB/02_GitProjects/Library/BBB_VFX_Houdini_Tools/otls;&"
+    },
+
+    {
+      "HOUDINI_TOOLBAR_PATH": "C:/00_BBB/02_GitProjects/Library/BBB_VFX_Houdini_Tools/toolbar;&"
+    },
+
+    {
+      "HOUDINI_DESK_PATH": "C:/00_BBB/02_GitProjects/Library/BBB_VFX_Houdini_Tools/desktop;&"
+    },
+
+    {
+      "baaam_booom_baaam_current_version": "20.5.278"
+    },
+
+    {
+      "PATH": {
+        "method": "prepend",
+        "value": [
+          "$BAAAMBOOOMBAAAM/bin"
+        ]
+      }
+    }
+  ]
+}
